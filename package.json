@@ -1,0 +1,23 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Docker Test",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeungHunBaek/Docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeungHunBaek/Docker/issues"
+  },
+  "homepage": "https://github.com/SeungHunBaek/Docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
